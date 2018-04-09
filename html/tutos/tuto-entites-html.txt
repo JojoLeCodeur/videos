@@ -1,0 +1,11 @@
+Les entitées HTML que j'ai retenues sont :
+&lt; &gt;     	< >
+&le; &ge;		(plus petit ou égal à - plus grand ou égal à)
+&apos; &quot; 	' "
+&nbsp;        	' '
+&euro;        	€ ou Alt Gr + E
+&copy;        	©
+Et pour les accents :
+&Agrave;      	A+à
+&Aacute;      	A+á
+&Acirc;       	Â (A+^)
