@@ -1,9 +1,9 @@
 # Vidéos
 ## Retrouvez mes vidéos sur mon site ou ma chaîne youtube
-### Youtube : https://www.youtube.com/channel/UCq_I3hyCnrEykZ8vfDLOqow/
-### Site web (vidéos) : http://jojolecodeur.lxa.li/videos/
+### Youtube : (disbanded)
+### Site web (vidéos) : (404 : no replacement link)
 ## Retrouvez moi également sur d'autres réseaux sociaux
-### Twitter : @CodeurJojo
+### Twitter : (JojoCodeur) https://twitter.com/CodeurJojo
 ### GitHub : https://github.com/JojoLeCodeur/videos
 ### Le serveur discord : https://discord.gg/TuvH3Tn
-#### Et bien sur mon site http://jojolecodeur.lxa.li/
+#### Et bien sur mon site (404 : replaced by http://jojolecodeur.byethost7.com/)
